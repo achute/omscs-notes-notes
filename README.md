@@ -1,3 +1,8 @@
+# Note: 
+
+This repo has been forked from m4ttsch/omscs-notes-notes. Please visit it for original notes, regarding OMSC. 
+I will be trying to focus more on the OMSC on CyberSecurity. 
+
 # OMSCS Lecture Notes
 
 This repository contains lecture notes for the classes I am taking or have taken in OMSCS.
